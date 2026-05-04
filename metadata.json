@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Student Analytics",
+  "description": "Ultra-modern data visualization dashboard for student performance analysis, featuring glassmorphism design and interactive real-time insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "Predictive Analytics Interface", "Interactive Dashboards"]
+}
